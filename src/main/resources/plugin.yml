@@ -1,0 +1,4 @@
+name: NetChat
+main: nhadobas.net.spigot.chat.NetMain
+author: nhadobas, maldridge
+version: 1.2
